@@ -1,3 +1,3 @@
 # Biostatistic Calculator
 
-Programmed 
+Programmed calculators for NUS Biostatistic module
